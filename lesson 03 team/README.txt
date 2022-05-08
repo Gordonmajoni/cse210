@@ -19,7 +19,7 @@ The project files and folders are organized as follows:
 root                    (project root folder)
 +--     hilo           (source code for game)
   +-- game              (specific classes)
-  +-- __basic__.py       (program entry point)
+  +-- __main__.py       (program entry point)
 +-- README.txt           (general info)
 ```
 
