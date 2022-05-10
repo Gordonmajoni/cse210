@@ -30,4 +30,8 @@ root                    (project root folder)
 ## Authors
 ---
 * 
-Team07 W03(Gordon)
+Team07 W03(Gordon Majoni # gordonmajoni95@gmail.com)
+          (Brent Brooks)
+          (Gab Munhoz)
+          (Emmanuel Odonkor)
+          (Tomas Lopez)
